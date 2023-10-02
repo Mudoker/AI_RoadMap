@@ -2,53 +2,57 @@
 
 This repository contains a curated list of online courses related to computer science, artificial intelligence, machine learning, and related topics. These courses are offered by renowned institutions and are available for free on YouTube.
 
-## Probability and Statistics
+## Beginner Level
 
-- [Introduction to Probability for Computer Scientists](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&ab_channel=MITOpenCourseWare)
+1. [Introduction to Probability for Computer Scientists](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&ab_channel=MITOpenCourseWare)
+   - A foundational course in probability theory for computer science students.
 
-## Artificial Intelligence
+2. [Introduction to Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+   - Explore the basics of linear dynamical systems.
 
-- [Artificial Intelligence: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+3. [Artificial Intelligence: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+   - Gain a fundamental understanding of artificial intelligence concepts.
 
-## Computer Vision
+4. [Computer Vision: Foundations and Applications](https://www.youtube.com/playlist?list=PLZd-RT8IB2ELyRUy66HXF9OPN1_ZSizZM)
+   - Learn the basics of computer vision and its applications.
 
-- [Computer Vision: Foundations and Applications](https://www.youtube.com/playlist?list=PLZd-RT8IB2ELyRUy66HXF9OPN1_ZSizZM)
+## Intermediate Level
 
-## Data Mining and Analysis
+5. [Data Mining and Analysis](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySxFoIGmY1MJao-XYvYGxxgj)
+   - Dive deeper into data mining and analysis techniques.
 
-- [Data Mining and Analysis](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySxFoIGmY1MJao-XYvYGxxgj)
+6. [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+   - Explore machine learning applied to graph data.
 
-## Natural Language Processing
+7. [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+   - Study natural language processing and deep learning techniques.
 
-- [From Languages to Information](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
-- [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+## Advanced Level
 
-## Machine Learning and Deep Learning
+8. [Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+   - Delve into advanced deep learning topics and architectures.
 
-- [Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-- [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-- [Introduction to Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&ab_channel=AlexanderAmini)
-- [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-- [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+9. [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+   - Master convolutional neural networks for visual recognition.
 
-## Linear Dynamical Systems
+10. [Probabilistic Graphical Models](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn)
+    - Explore probabilistic graphical models and their applications.
 
-- [Introduction to Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+11. [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+    - Study reinforcement learning and its algorithms.
 
-## Probabilistic Graphical Models
+12. [Convex Optimization I](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
+    - Learn about convex optimization techniques.
 
-- [Probabilistic Graphical Models](https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn)
+13. [Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
+    - Explore big data and data mining concepts.
 
-## Optimization
+14. [Decision Making under Uncertainty](https://www.youtube.com/playlist?list=PLP8iPy9hna6QPqk4N8eBk0oXzLrLbOtTA)
+    - Study decision making in uncertain environments.
 
-- [Convex Optimization I](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
+## Miscellaneous
 
-## Big Data
-
-- [Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
-
-## Decision Making under Uncertainty
-
-- [Decision Making under Uncertainty](https://www.youtube.com/playlist?list=PLP8iPy9hna6QPqk4N8eBk0oXzLrLbOtTA)
+15. [Introduction to Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&ab_channel=AlexanderAmini)
+    - Additional resources for deep learning enthusiasts.
 
 Feel free to explore these courses to enhance your knowledge in various areas of computer science and artificial intelligence. Happy learning!
