@@ -6,18 +6,19 @@ This roadmap combines insights from top-tier university curricula, alongside rel
 
 | **Courses** | **Link** | **Status** |
 |-------------|----------|------------|
-| **Calculus 1** | [YouTube: Calculus 1 Playlist](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) | *Incompleted* |
-| **Linear Algebra** | [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | *Incompleted* |
-| **Probability and Statistics** | [MIT OCW: 18.600 Probability and Random Variables](https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019/) | *Incompleted* |
-| **Python** | [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python) | *Incompleted* |
-| **Data Structures and Algorithms** | [Coursera: Algorithms, Part I & II](https://www.coursera.org/learn/algorithms-part1) | *Incompleted* |
+| **Calculus 1** | [Professor Leonard: Calculus 1 Playlist](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) | *In Progress* |
+| **Calculus 2** | [Professor Leonard: Calculus 1 Playlist](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) | *Incompleted* |
+| **Calculus 3** | [Professor Leonard: Calculus 3 Playlist](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) | *Incompleted* |
+| **Linear Algebra** | [MIT OCW: 18.06SC Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) | *Incompleted* |
+| **Probability and Statistics** | [Professor Leonard: Statistics](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0) | *Incompleted* |
+| **Python** | [Free Code Camp: Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) | *Incompleted* |
+| **Data Structures and Algorithms** | [MIT OCW: 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) | *In Progress* |
 
 ## Step 2: Master Machine Learning
 
 | **Courses** | **Link** | **Status** |
 |-------------|----------|------------|
-| **Supervised, Unsupervised Learning, and Model Evaluation** | [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) | *Incompleted* |
-| **Bayesian Methods, Kernel Methods, Ensemble Methods** | [MIT OCW: 6.867 Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/) | *Incompleted* |
+| **Supervised, Unsupervised Learning, and Model Evaluation** | [Standford Online: CS229 Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | *Incompleted* |
 | **Feature Engineering and Selection** | [Kaggle: Feature Engineering Tutorial](https://www.kaggle.com/learn/feature-engineering) | *Incompleted* |
 
 ## Step 3: Dive into Deep Learning
@@ -25,11 +26,11 @@ This roadmap combines insights from top-tier university curricula, alongside rel
 | **Courses** | **Link** | **Status** |
 |-------------|----------|------------|
 | **Neural Networks, Backpropagation, Optimization** | [MIT Deep Learning: 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) | *Incompleted* |
-| **Convolutional Neural Networks (CNNs)** | [Stanford Online: CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) | *Incompleted* |
-| **Recurrent Neural Networks (RNNs) and Transformers** | [Stanford Online: CS224n Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | *Incompleted* |
+| **Convolutional Neural Networks (CNNs)** | [Stanford Online: CS231n Convolutional Neural Networks for Visual Recognition]((https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)) | *Incompleted* |
+| **Recurrent Neural Networks (RNNs) and Transformers** | [Stanford Online: CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) | *Incompleted* |
 | **Generative Adversarial Networks (GANs)** | [Coursera: Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | *Incompleted* |
-| **Reinforcement Learning (RL)** | [Stanford Online: CS234 Reinforcement Learning](https://stanford-cs234.github.io/) | *Incompleted* |
-| **Graph Neural Networks (GNNs)** | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | *Incompleted* |
+| **Reinforcement Learning (RL)** | [Stanford Online: CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | *Incompleted* |
+| **Graph Neural Networks (GNNs)** | [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | *Incompleted* |
 | **Transfer Learning and Fine-Tuning** | [Hugging Face Course](https://huggingface.co/course/chapter1) | *Incompleted* |
 | **Deep Reinforcement Learning** | [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) | *Incompleted* |
 
