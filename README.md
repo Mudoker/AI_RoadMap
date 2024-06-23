@@ -26,7 +26,7 @@ This roadmap combines insights from top-tier university curricula, alongside rel
 | **Courses** | **Link** | **Status** |
 |-------------|----------|------------|
 | **Neural Networks, Backpropagation, Optimization** | [MIT Deep Learning: 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) | *Incompleted* |
-| **Convolutional Neural Networks (CNNs)** | [Stanford Online: CS231n Convolutional Neural Networks for Visual Recognition]((https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)) | *Incompleted* |
+| **Convolutional Neural Networks (CNNs)** | [Stanford Online: CS231n Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | *Incompleted* |
 | **Recurrent Neural Networks (RNNs) and Transformers** | [Stanford Online: CS224n Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) | *Incompleted* |
 | **Generative Adversarial Networks (GANs)** | [Coursera: Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | *Incompleted* |
 | **Reinforcement Learning (RL)** | [Stanford Online: CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | *Incompleted* |
