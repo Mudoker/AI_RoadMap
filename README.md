@@ -1,62 +1,40 @@
 # Roadmap to Becoming an AI Engineer
 
-This roadmap combines insights from top-tier university curricula like, alongside relevant free online resources. Follow these steps to build a strong foundation and advance in the field of AI engineering.
+This roadmap combines insights from top-tier university curricula, alongside relevant free online resources. Follow these steps to build a strong foundation and advance in the field of AI engineering.
 
 ## Step 1: Solidify Your Foundation
 
-### Essential Mathematics
-- **Calculus (Single and Multivariable)**
-  - [MIT OpenCourseWare (OCW): 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-- **Linear Algebra**
-  - [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-- **Probability and Statistics**
-  - [MIT OCW: 18.600 Probability and Random Variables](https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019/)
-
-### Programming
-- **Python**
-  - [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-- **Data Structures and Algorithms**
-  - [Coursera: Algorithms, Part I & II](https://www.coursera.org/learn/algorithms-part1)
+| **Courses** | **Link** | **Status** |
+|-------------|----------|------------|
+| **Calculus 1** | [YouTube: Calculus 1 Playlist](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) | *Incompleted* |
+| **Linear Algebra** | [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | *Incompleted* |
+| **Probability and Statistics** | [MIT OCW: 18.600 Probability and Random Variables](https://ocw.mit.edu/courses/mathematics/18-600-probability-and-random-variables-fall-2019/) | *Incompleted* |
+| **Python** | [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python) | *Incompleted* |
+| **Data Structures and Algorithms** | [Coursera: Algorithms, Part I & II](https://www.coursera.org/learn/algorithms-part1) | *Incompleted* |
 
 ## Step 2: Master Machine Learning
 
-### Machine Learning Fundamentals
-- **Supervised, Unsupervised Learning, and Model Evaluation**
-  - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-
-### Advanced Machine Learning
-- **Bayesian Methods, Kernel Methods, Ensemble Methods**
-  - [MIT OCW: 6.867 Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
-- **Feature Engineering and Selection**
-  - [Kaggle: Feature Engineering Tutorial](https://www.kaggle.com/learn/feature-engineering)
+| **Courses** | **Link** | **Status** |
+|-------------|----------|------------|
+| **Supervised, Unsupervised Learning, and Model Evaluation** | [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) | *Incompleted* |
+| **Bayesian Methods, Kernel Methods, Ensemble Methods** | [MIT OCW: 6.867 Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/) | *Incompleted* |
+| **Feature Engineering and Selection** | [Kaggle: Feature Engineering Tutorial](https://www.kaggle.com/learn/feature-engineering) | *Incompleted* |
 
 ## Step 3: Dive into Deep Learning
 
-### Deep Learning Fundamentals
-- **Neural Networks, Backpropagation, Optimization**
-  - [MIT Deep Learning: 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
-
-### Advanced Deep Learning
-- **Convolutional Neural Networks (CNNs)**
-  - [Stanford Online: CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- **Recurrent Neural Networks (RNNs) and Transformers**
-  - [Stanford Online: CS224n Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-- **Generative Adversarial Networks (GANs)**
-  - [Coursera: Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
-- **Reinforcement Learning (RL)**
-  - [Stanford Online: CS234 Reinforcement Learning](https://stanford-cs234.github.io/)
-- **Graph Neural Networks (GNNs)**
-  - [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
-- **Transfer Learning and Fine-Tuning**
-  - [Hugging Face Course](https://huggingface.co/course/chapter1)
-- **Deep Reinforcement Learning**
-  - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
-
-### MLOps
-- **Model Deployment, Monitoring, and Scaling**
-  - [Coursera: Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+| **Courses** | **Link** | **Status** |
+|-------------|----------|------------|
+| **Neural Networks, Backpropagation, Optimization** | [MIT Deep Learning: 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) | *Incompleted* |
+| **Convolutional Neural Networks (CNNs)** | [Stanford Online: CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) | *Incompleted* |
+| **Recurrent Neural Networks (RNNs) and Transformers** | [Stanford Online: CS224n Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | *Incompleted* |
+| **Generative Adversarial Networks (GANs)** | [Coursera: Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | *Incompleted* |
+| **Reinforcement Learning (RL)** | [Stanford Online: CS234 Reinforcement Learning](https://stanford-cs234.github.io/) | *Incompleted* |
+| **Graph Neural Networks (GNNs)** | [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) | *Incompleted* |
+| **Transfer Learning and Fine-Tuning** | [Hugging Face Course](https://huggingface.co/course/chapter1) | *Incompleted* |
+| **Deep Reinforcement Learning** | [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) | *Incompleted* |
 
 ## Step 4: Choose Your Specialization (Optional)
+
 - **Natural Language Processing (NLP)**
   - Focus on NLP techniques and models.
 - **Computer Vision**
@@ -70,7 +48,6 @@ This roadmap combines insights from top-tier university curricula like, alongsid
 
 ## Step 5: Gain Hands-On Experience
 
-### Projects
 - **Kaggle**
   - Participate in competitions to apply your skills to real-world problems.
 - **GitHub**
@@ -78,17 +55,8 @@ This roadmap combines insights from top-tier university curricula like, alongsid
 - **Personal Projects**
   - Build your own AI applications to solve interesting challenges.
 
-### Research
-- **Research Labs**
-  - Explore research labs at universities or AI companies.
-- **Academic Papers**
-  - Read academic papers to stay on the cutting edge of AI research.
+### Additional Tips
 
-### Internships
-- **Internships**
-  - Seek internships at AI companies to gain practical experience and mentorship.
-
-## Additional Tips
 - **Stay Informed**
   - Follow AI conferences, read blogs, and join online communities.
 - **Network**
