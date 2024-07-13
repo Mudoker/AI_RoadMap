@@ -14,6 +14,8 @@ This roadmap combines insights from top-tier university curricula, alongside rel
 | **Python** | [Free Code Camp: Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) | *Incompleted* |
 | **Data Structures and Algorithms** | [MIT OCW: 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) | *In Progress* |
 
+*P.s.: Instead of Calculus and Linear Algebra, consider [Mathematics for Machine Learning.](https://www.youtube.com/watch?v=0z6AhrOSrRs&list=PLx2n8DAE-8TiNDU7TqI4hI3FDacw4U1bV&index=2) This course covers essential math concepts from Calculus and Linear Algebra, focusing on their direct application to AI engineering.*
+
 ## Step 2: Master Machine Learning
 
 | **Courses** | **Link** | **Status** |
